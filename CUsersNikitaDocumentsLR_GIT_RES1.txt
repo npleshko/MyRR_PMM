@@ -1,0 +1,40 @@
+70cecde HEAD@{0}: merge develop: Fast-forward
+8405831 HEAD@{1}: checkout: moving from develop to master
+70cecde HEAD@{2}: checkout: moving from styles2 to develop
+b4367bb HEAD@{3}: rebase (finish): returning to refs/heads/styles2
+b4367bb HEAD@{4}: rebase (pick): new styles added
+70cecde HEAD@{5}: rebase (start): checkout develop
+04d8167 HEAD@{6}: checkout: moving from develop to styles2
+70cecde HEAD@{7}: rebase (finish): returning to refs/heads/develop
+70cecde HEAD@{8}: rebase (start): checkout images2
+8405831 HEAD@{9}: checkout: moving from images2 to develop
+70cecde HEAD@{10}: checkout: moving from develop to images2
+8405831 HEAD@{11}: checkout: moving from styles2 to develop
+04d8167 HEAD@{12}: commit: new styles added
+569b913 HEAD@{13}: commit: modify index.html for styles2
+8405831 HEAD@{14}: checkout: moving from develop to styles2
+8405831 HEAD@{15}: checkout: moving from images2 to develop
+70cecde HEAD@{16}: commit: update index.html for image2
+2c8170c HEAD@{17}: commit: added new images in folder images
+8405831 HEAD@{18}: checkout: moving from develop to images2
+8405831 HEAD@{19}: checkout: moving from master to develop
+8405831 HEAD@{20}: merge develop: Fast-forward
+8792c93 HEAD@{21}: checkout: moving from develop to master
+8405831 HEAD@{22}: commit (merge): Fix merging conflict
+f189a5a HEAD@{23}: merge images: Fast-forward
+9d28b58 HEAD@{24}: checkout: moving from images to develop
+f189a5a HEAD@{25}: checkout: moving from develop to images
+9d28b58 HEAD@{26}: checkout: moving from styles to develop
+276da2b HEAD@{27}: commit: add styles in html file
+9d28b58 HEAD@{28}: checkout: moving from develop to styles
+9d28b58 HEAD@{29}: checkout: moving from images to develop
+f189a5a HEAD@{30}: commit: Change index -> add <img> tags
+ebd1557 HEAD@{31}: commit: added folder images
+9d28b58 HEAD@{32}: checkout: moving from develop to images
+9d28b58 HEAD@{33}: commit: new branch develop with empty index.html
+8792c93 HEAD@{34}: checkout: moving from master to develop
+8792c93 HEAD@{35}: commit: add html
+ab0527b HEAD@{36}: commit: add .gitignore
+1ddfc64 HEAD@{37}: commit: add gitignore and upgrade readme
+d61ba2d HEAD@{38}: commit: Add 1 row in readme.txt
+d64a162 HEAD@{39}: commit (initial): Init commit with readme.txt
